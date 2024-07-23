@@ -2,6 +2,8 @@
 
 This project is a responsive website for Springdale Public School, designed and developed as part of an assignment from the company I applied for. The website showcases various sections including Academics, Admissions, Contact Us, and more. The project was completed within 6 hours of continuous hard work.
 
+## Live Link : https://madrocket-technologies-school.vercel.app
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -38,7 +40,7 @@ Make sure you have the following installed on your local development machine:
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/vikash4110/madrocket-technologies-school.git
+   https://github.com/Vikash4110/madrocketTechnologiesSchool.git
 
 2. Install dependencies:
    npm install
