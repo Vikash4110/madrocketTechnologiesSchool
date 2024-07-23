@@ -9,6 +9,8 @@ const HomePage =()=>{
         <br/>
         <br/>
         <br/>   
+        <br/>
+        <br/>
         <Home/>
         <Footer/>
       </>

@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../assets/sprint-logo-white.svg';
-import changedLogo from '../assets/changedlogo.svg';
+import changedLogo from '../assets/trimlogo.png';
 import '../styles/Nav.css';
 import '../styles/index.css';
 
@@ -24,8 +23,8 @@ const Navbar = () => {
     <nav className={`fixed top-0 w-full z-50 p-4 transition-colors duration-300 ${navbarClass}`} style={{ backgroundColor: 'white' }}>
       <div className="container mx-auto">
         <div className="flex justify-between items-center">
-          <Link to='/' className="text-black text-xl font-bold">
-            <img src={getLogo()} alt="logo" />
+          <Link to="/" className="text-black text-xl font-bold">
+            <img src={getLogo()} alt="logo" className="w-20 h-20 md:w-24 md:h-24" /> {/* Adjust the size here */}
           </Link>
           <div className="hidden md:flex items-center space-x-8" style={{ color: textColor, '--underline-color': underlineColor }}>
             <Link to="/about" className="underline-animation font-bold">About Us</Link>

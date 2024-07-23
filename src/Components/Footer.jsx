@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/sprint-logo-white.svg';
+import logo from '../assets/trimlogo.png';
 
 const Footer = () => {
   return (
