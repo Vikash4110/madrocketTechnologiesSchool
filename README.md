@@ -38,7 +38,7 @@ Make sure you have the following installed on your local development machine:
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/vikash4110/madrocket-technologies-school.git
+   https://github.com/Vikash4110/madrocketTechnologiesSchool.git
 
 2. Install dependencies:
    npm install
