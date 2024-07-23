@@ -2,6 +2,8 @@
 
 This project is a responsive website for Springdale Public School, designed and developed as part of an assignment from the company I applied for. The website showcases various sections including Academics, Admissions, Contact Us, and more. The project was completed within 6 hours of continuous hard work.
 
+## Live Link : https://madrocket-technologies-school.vercel.app
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
